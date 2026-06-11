@@ -2,7 +2,7 @@ goto main
         wb 0
 
 out     ww 0
-in1     ww 89
+in1     ww 42
 in2     ww 0
 n       ww 0
 d       ww 0
